@@ -31,3 +31,7 @@ Getting Started
 2. Swtich to start branch
 3. Run the app.
 
+# Example :
+
+![] https://github.com/arbaelbarca/Notification-With-Alarm/blob/master/notif%202.PNG
+![] https://github.com/arbaelbarca/Notification-With-Alarm/blob/master/notif%201.PNG
