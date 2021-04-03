@@ -34,4 +34,3 @@ Getting Started
 # Example :
 
 ![notif 1] https://github.com/arbaelbarca/Notification-With-Alarm/blob/master/notif%202.PNG
-![notif 2] https://github.com/arbaelbarca/Notification-With-Alarm/blob/master/notif%201.PNG
