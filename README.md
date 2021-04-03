@@ -33,4 +33,4 @@ Getting Started
 
 # Example :
 
-![notif 1] https://github.com/arbaelbarca/Notification-With-Alarm/blob/master/notif%202.PNG
+![notif 1] (https://github.com/arbaelbarca/Notification-With-Alarm/blob/master/notif%202.PNG)
